@@ -1,0 +1,65 @@
+/* .mani
+{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(270px,1fr));
+    padding-left: 200px;
+    gap: 140px;
+    row-gap: 50px;
+    list-style: none;
+    border-radius: 20px;
+    border: 10px;
+    font-size:30px;
+} */
+
+.manilp {
+    
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
+    /* padding: 200px 100px; */
+    width: 90%;
+    /* gap: 10px; */
+    row-gap: 30px;
+    list-style: none;
+    border-radius: 50px;
+    font-size: 20px;
+    /* width: 100px; */
+    /* height: 100px; */
+}
+.manilp a{
+    list-style:none;
+    /* color: black; */
+    
+    list-style: none;
+    text-decoration: none;
+    color:white;
+}
+
+.modal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: white;
+    padding: 20px;
+    z-index: 1000;
+    border-radius: 10px;
+    width: 80%;
+    max-width: 600px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 999;
+}
+
+.modal-img {
+    width: 90%;
+    height: auto;
+    border-radius: 5px;
+}

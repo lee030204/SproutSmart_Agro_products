@@ -1,0 +1,1239 @@
+
+{
+    "slider":[
+        {
+            "id":1,
+            "img":"https://png.pngtree.com/thumb_back/fh260/background/20240701/pngtree-smart-farmer-standing-in-green-corn-farm-holding-tablet-image_15838967.jpg",
+            "category":"slider"
+        },
+        {
+            "id":2,
+            "img":"https://wallpapers.com/images/high/farmland-and-farmhouse-in-the-countryside-1kbdihuqk5jnb01u.webp",
+            "category":"slider"
+        },
+        {
+            "id":3,
+            "img":"https://wallpapers.com/images/featured/farmhouse-background-4ompwdqywm6zht8d.webp",
+            "category":"slider"
+        },
+        {
+            "id":4,
+            "img":"https://images.pexels.com/photos/388415/pexels-photo-388415.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "category":"slider"
+        }
+    ],
+    "homeveg":[
+        {
+            "id":1,
+            "img":"https://glasrestaurant.ie/wp-content/uploads/2022/09/glasrestaurant_carrot.jpg"
+        },
+        {
+            "id":2,
+            "img":"https://www.worldatlas.com/r/w1200/upload/c8/0e/5f/shutterstock-311521226.jpg"
+        },
+        {
+            "id":3,
+            "img":"https://blog-images-1.pharmeasy.in/blog/production/wp-content/uploads/2023/07/02074155/871-741x452.jpg"
+        },
+        {
+            "id":4,
+            "img":"https://i0.wp.com/post.healthline.com/wp-content/uploads/2019/09/daikon-radish-1296x728-header-1296x728.jpg?w=1155&h=1528"
+        },
+        {
+            "id":5,
+            "img":"https://www.healthifyme.com/blog/wp-content/uploads/2023/07/shutterstock_290862686-1.jpg"
+        }
+    ],
+    "homefruit":[
+        {
+            "id":6,
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThXzKhbX9uFcStqZsCvOhkiPoQtRXcLUQWgA&s",
+            "data":"Tomato",
+            "place":"Azadpur Mandi, Delhi",
+            "offer":"₹ 30",
+            "original":"₹ 50"
+            
+        },
+        {
+            "id":7,
+            "img":"https://media.istockphoto.com/id/585188370/photo/top-view-of-fresh-green-cardamom-on-white-background.jpg?s=612x612&w=0&k=20&c=iAtl-SAGcV8HUDYPxUL0ZjD3Z-rdCK581Rta4oJp9L8=",
+            "data":"Cardamon",
+            "place":" Bodinayakanur, Tamil Nadu",
+            "offer":"₹ 3800.00 ",
+            "original":"₹ 4199"
+        },
+        {
+            "id":8,
+            "img":"https://static.vecteezy.com/system/resources/previews/033/294/680/non_2x/watermelon-background-ai-generative-pro-photo.jpg",
+            "data":"Watermelon",
+            "place":" Raebareli,Uttar Pradesh",
+            "offer":"₹ 30.00 ",
+            "original":"₹ 49.99"
+        },
+        {
+            "id":9,
+            "img":"https://media.istockphoto.com/id/519309790/photo/pile-of-raw-basmati-rice-with-a-spoon.jpg?s=612x612&w=0&k=20&c=A9A87HykypkOo5qLMQm6bZjBQn83NE1NHMppw8-6Tnc=",
+            "data":"Basmati rice",
+            "place":"  Haryana",
+            "offer":"₹ 53.00 ",
+            "original":"₹ 65.99"
+        },
+        {
+            "id":10,
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYb_p-8ABKuKUc5OFNPOUw8KhMKXeJGYjmKDtZPqE929AXX0DXi33TUffFU-84gGXwqQQ&usqp=CAU",
+            "data":"Pumpkin seed",
+            "place":" Madhya Pradesh",
+            "offer":"₹ 53.00 ",
+            "original":"₹ 65.99"
+        },
+        {
+            "id":11,
+            "img":"https://i.pinimg.com/736x/13/02/49/130249352d9e2d09de1ee70ddce9c3ac.jpg",
+            "data":"Cashew nut",
+            "place":"Maharashtra, India",
+            "offer":"₹ 153.00 ",
+            "original":"₹ 185.00"
+        },
+        {
+            "id":12,
+            "img":"https://images.meesho.com/images/products/268624048/kilfc_512.webp",
+            "data":"Mango",
+            "place":"Salem, Tamil Nadu",
+            "offer":"₹ 120.00 ",
+            "original":"₹ 191.99"
+        },
+        {
+            "id":13,
+            "img":"https://th.bing.com/th/id/OIP.Qx5HmLvO8ZWF6usVSNSOXgHaEK?rs=1&pid=ImgDetMain",
+            "data":"Brazil Nuts",
+            "place":"Brazils",
+            "offer":"₹ 240.00 ",
+            "original":"₹ 420.99"
+        }
+    ],
+    "topproduct":[
+        {
+            "id":14,
+            "img":"https://img.freepik.com/free-photo/top-view-various-indian-spices-seasonings-table_181624-58725.jpg?t=st=1721817751~exp=1721821351~hmac=1b38c568817c77b0ac0927d8d7430e781a00c0812c37dc88cda00db8a98fa923&w=900",
+            "data":"Spices",
+            "path":"/spices"
+        },
+        {
+            "id":15,
+            "img":"https://static.vecteezy.com/system/resources/previews/038/704/430/non_2x/ai-generated-mixed-vegetables-salad-isolated-kitchen-table-professional-advertising-foodgraphy-photo.jpg",
+            "data":"Vegetables",
+            "path":"/vegetables"
+        },
+        {
+            "id":16,
+            "img":"https://img.freepik.com/premium-photo/bowl-nuts-nuts-wooden-board_988987-21411.jpg?w=740",
+            "data":"Nuts",
+            "path":"/nuts"
+        },
+        {
+            "id":17,
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX5gTArLlzanpoQq10ho0N_j8akeqm75CKCQ&s",
+            "data":"Fruits",
+            "path":"/fruits"
+        },
+        {
+            "id":18,
+            "img":"https://img.freepik.com/premium-photo/detailed-shot-agricultural-machinery-working-land-showcasing-advancements-farming_875722-25645.jpg",
+            "data":"Farm Machinery",
+            "path":"/farmmachine"
+        },
+        {
+            "id":19,
+            "img":"https://media.istockphoto.com/id/182725495/photo/7-shades-of-rice.jpg?s=1024x1024&w=is&k=20&c=PCBDUJonWCHfIzem8AJkz1V9wK-o-WRtAG5jawJ2s-M=",
+            "data":"Rice",
+            "path":"/rice"
+        },
+        {
+            "id":20,
+            "img":"https://img.freepik.com/premium-photo/regenerative-farming-works-smallscale-organic-farming-with-complex-farming-details_962751-115.jpg",
+            "data":"Crop Production",
+            "path":"/cropproduction"
+        },
+        {
+            "id":21,
+            "img":"https://www.shutterstock.com/image-photo/legumes-set-consisting-different-types-600w-1636527745.jpg",
+            "data":"Seeds",
+            "path":"/seeds"
+        }
+    ],
+    "homefru":[
+        {
+            "id":22,
+            "img":"https://media.istockphoto.com/id/1280856062/photo/variety-of-fresh-organic-vegetables-and-fruits-in-the-garden.jpg?s=1024x1024&w=is&k=20&c=ZJyLIXEa10DQTtvH8vVLQh3ZDqxmt4soKhPRaQE23k8=",
+            "data":"Vegetables",
+            "owner":"Vegetables are nutrient-rich plants vital for a balanced diet.",
+            "place":"Azadpur Mandi, Delhi",
+            "path":"/vegetables"
+        },
+        {
+            "id":23,
+            "img":"https://thumbs.dreamstime.com/z/heart-fruits-vegetables-fit-healthy-lifestyle-concept-perfect-diet-oranges-apples-tomatoes-blackberries-grapes-kiwi-301160222.jpg?w=768",
+            "data":"Fruits",
+            "owner":"Fruits are nutrient-dense, sweet plant foods vital for health.",
+            "place":"Kottayam, kerala",
+            "path":"/fruits"
+            
+        },
+        {
+            "id":24,
+            "img":"https://t4.ftcdn.net/jpg/01/02/58/91/360_F_102589163_hk02O92vzEYP0rZbVyvDTbkje1GaUDk1.jpg",
+            "data":"Spices",
+            "owner":"Spices are aromatic plant substances used to flavor food.",
+            "place":"Idukki and Wayanad, kerala",
+            "path":"/spices"
+        },
+        {
+            "id":25,
+            "img":"https://media.istockphoto.com/id/496689738/photo/assorted-nuts.jpg?s=612x612&w=0&k=20&c=lJhqPaHqwvXiDFNni5nB9EKgvYlqMEljI-0JzaB-ZNA=",
+            "data":"Nuts",
+            "owner":"Nuts are nutrient-rich, edible seeds providing protein and healthy fats.",
+            "place":"United States",
+            "path":"/nuts"
+        },
+        {
+            "id":26,
+            "img":"https://i.pinimg.com/originals/68/22/83/682283c0aa432a66027622dd5ed551db.jpg",
+            "data":"Farm Machinery",
+            "owner":"Farm machinery includes essential equipment for planting, cultivating, and harvesting crops",
+            "place":"Canada, USA, Europe",
+            "path":"/farmmachine"
+        },
+        {
+            "id":27,
+            "img":"https://media.istockphoto.com/id/1346744481/photo/anonymous-chef-harvesting-fresh-vegetables-on-a-farm.jpg?s=612x612&w=0&k=20&c=U9h4fAi68nwVndAJW8TF-f2lFFCO2Y-XrZWA2gah1Xw=",
+            "data":"Organic Farming",
+            "owner":"Organic farming uses natural methods to grow crops without synthetic chemicals.",
+            "place":"Sikkim, Karnataka",
+            "path":"/cropproduction"
+        },
+        {
+            "id":28,
+            "img":"https://img.freepik.com/premium-photo/various-seeds-diet-eating-professional-advertising-food-photography_920594-35032.jpg",
+            "data":"Seeds",
+            "owner":"Seeds are plant embryos encased in protective outer coverings, enabling reproduction.",
+            "place":"Andhra Pradesh",
+            "path":"/seeds"
+        },
+        {
+            "id":29,
+            "img":"https://st.depositphotos.com/1056373/1930/i/950/depositphotos_19303401-stock-photo-wooden-scoops-with-different-rice.jpg",
+            "data":"Rice",
+            "owner":"Rice is a staple grain providing essential carbohydrates and energy.",
+            "place":"India, Asia",
+            "path":"/rice"
+        }
+    ],
+    "vegetables":[
+        {
+            "id":30,
+            "img":"https://img.freepik.com/premium-photo/broccoli-vegetables-before-cooking-professional-advertising-food-photography_920594-26708.jpg",
+            "data":"Broccoli",
+            "owner":"A farmer named Muthu Kumar ",
+            "place":"Nilgiri district, Tamil Nadu",
+            "offer":"₹ 250.00 ",
+            "original":"₹ 300.23",
+            "category":"vegetable"
+            
+        },
+        {
+            "id":31,
+            "img":"https://img.freepik.com/premium-photo/tomatoes-middle-field-professional-photography_925376-90213.jpg",
+            "data":"Tomato",
+            "owner":"A farmer named Tukaram Bhagoji Gayakar ",
+            "place":"Tukaram",
+            "offer":"₹ 50.00 ",
+            "original":"₹ 60.00",
+            "category":"vegetable"
+            
+        },
+        {
+            "id":32,
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu5OpcSr129om9t6RbZtcdD_rhlKdxF50vug&s",
+            "data":"Onion",
+            "owner":"A farmer named Rajendra Tukaram Chavan",
+            "place":"Nashik, Maharashtra",
+            "offer":"₹ 44.00 ",
+            "original":"₹ 50.00",
+            "category":"vegetable"
+        },
+        {
+            "id":34,
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbF8QZjwhzBMttiHD6CWnWbvYiRsly6KymQkG0Aj2dRDPlOp_BP-QhfXgsxFPyG89G1ZU&usqp=CAU",
+            "data":"Carrots",
+            "owner":"A former named  Subhash Deswal",
+            "place":"Haryana",
+            "offer":"₹ 50.00 ",
+            "original":"₹ 75.00",
+            "category":"vegetable"
+        },
+        {
+            "id":35,
+            "img":"https://img.freepik.com/premium-photo/potato-kitchen-table-professional-advertising-food-photography_920594-28385.jpg",
+            "data":"Potato",
+            "owner":"A former named Ravi Prakash Maurya",
+            "place":"Maurya village",
+            "offer":"₹ 24.00 ",
+            "original":"₹ 38.00",
+            "category":"vegetable"
+        },
+        {
+            "id":36,
+            "img":"https://img.freepik.com/premium-photo/garlic-is-ready-be-used-cooking-professional-advertising-food-photography_920594-26997.jpg",
+            "data":"Garlic",
+            "owner":"A former named Rahul Deshmukh",
+            "place":"Madhya Pradesh",
+            "offer":"₹ 240.00 ",
+            "original":"₹ 300.00",
+            "category":"vegetable"
+        },
+        {
+            "id":37,
+            "img":"https://media.istockphoto.com/id/638286824/photo/raw-green-organic-leeks.jpg?s=612x612&w=0&k=20&c=9grwkMh2YiS17Gk6PU3B7T7SJ-Zn6S3Z9QpuMeN4qpQ=",
+            "data":"Leeks",
+            "owner":"A former named  Subhash Deswal",
+            "place":" Indonesia",
+            "offer":"₹ 380.00 ",
+            "original":"₹ 499.00",
+            "category":"vegetable"
+        },
+        {
+            "id":38,
+            "img":"https://cdn.pixabay.com/photo/2024/05/03/09/59/ai-generated-8736707_640.jpg",
+            "data":"cucumber",
+            "owner":"A farmer named Maappillaiyoorani",
+            "place":"Chinese",
+            "offer":"₹ 30.00 ",
+            "original":"₹ 49.00",
+            "category":"vegetable"
+        },
+        {
+            "id":39,
+            "img":"https://cdn.pixabay.com/photo/2015/07/15/23/28/cabbage-847079_640.jpg",
+            "data":"Carbage",
+            "owner":"A farmer named Muthu Kumar ",
+            "place":"Nilgiri district, Tamil Nadu",
+            "offer":"₹ 250.00 ",
+            "original":"₹ 300.23",
+            "category":"vegetable"
+            
+        },
+        {
+            "id":40,
+            "img":"https://thumbs.dreamstime.com/b/single-red-chili-pepper-water-droplets-gray-background-fresh-vegetable-concept-325319016.jpg",
+            "data":"Chlli",
+            "owner":"A farmer named Tukaram Bhagoji Gayakar ",
+            "place":"Tukaram",
+            "offer":"₹ 50.00 ",
+            "original":"₹ 60.00",
+            "category":"vegetable"
+            
+        },
+        {
+            "id":41,
+            "img":"https://media.istockphoto.com/id/507115194/photo/okra.jpg?s=612x612&w=0&k=20&c=f5rZt9pLL-SpSH5-41p2hPpPM2hfN80YjR_qpWAscCw=",
+            "data":"Ladi's Finger",
+            "owner":"A farmer named Rajendra Tukaram Chavan",
+            "place":"Nashik, Maharashtra",
+            "offer":"₹ 44.00 ",
+            "original":"₹ 50.00",
+            "category":"vegetable"
+        },
+        {
+            "id":42,
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm57zoB35nEu0O0duU3DwqtE2CdMuhCIov1g&s",
+            "data":"Brinjal",
+            "owner":"A former named  Subhash Deswal",
+            "place":"Haryana",
+            "offer":"₹ 50.00 ",
+            "original":"₹ 75.00",
+            "category":"vegetable"
+        }
+    ],
+    "fruits":[
+        {
+            "id":43,
+            "img":"https://thumbs.dreamstime.com/b/wooden-tray-nine-oranges-table-317027302.jpg",
+            "data":"Oranges",
+            "owner":"Ngapur Santra",
+            "place":"Nagpur",
+            "offer":"₹ 55.00 ",
+            "original":"₹ 80.23",
+            "category":"fruit"
+            
+        },
+        {
+            "id":44,
+            "img":"https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/still-life-with-three-lemons-edward-fielding.jpg",
+            "data":"Lemons",
+            "owner":"Manikandan ",
+            "place":"Salem",
+            "offer":"₹ 80.00 ",
+            "original":"₹ 120.00",
+            "category":"fruit"
+            
+        },
+        {
+            "id":45,
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLxR5QK3_lqCBBTtEn1-84Z8xeQTsqiS7osSc412lj7yJtbymL8DprTSzWvA1PeRTvcqE&usqp=CAU",
+            "data":"Red Grapes",
+            "owner":"A farmer named Rajendra Tukaram Chavan",
+            "place":"Nashik, Maharashtra",
+            "offer":"₹ 44.00 ",
+            "original":"₹ 50.00",
+            "category":"fruit"
+        },
+        {
+            "id":46,
+            "img":"https://images.pexels.com/photos/5869661/pexels-photo-5869661.jpeg",
+            "data":"mandarins",
+            "owner":"A former named  Subhash Deswal",
+            "place":"Haryana",
+            "offer":"₹ 50.00 ",
+            "original":"₹ 75.00",
+            "category":"fruit"
+        },
+        {
+            "id":47,
+            "img":"https://t3.ftcdn.net/jpg/06/03/49/98/360_F_603499801_ftoUbvxthzjDS03zTKrkhcYReCH1RYY8.jpg",
+            "data":"straberry",
+            "owner":"A former named Ravi Prakash Maurya",
+            "place":"Maurya village",
+            "offer":"₹ 24.00 ",
+            "original":"₹ 38.00",
+            "category":"fruit"
+        },
+        {
+            "id":48,
+            "img":"https://images.squarespace-cdn.com/content/v1/5d551402a75c9d00010c7df1/27c24756-c6e8-4921-9c97-9366b338f489/Averrhoa_carambola-starfruit-fruit1.jpg",
+            "data":"StarFruit",
+            "owner":"A former named Rahul Deshmukh",
+            "place":"Madhya Pradesh",
+            "offer":"₹ 240.00 ",
+            "original":"₹ 300.00",
+            "category":"fruit"
+        },
+        {
+            "id":49,
+            "img":"https://trymemall.com/img/3366071523376816.jpg",
+            "data":"Pomegranate",
+            "owner":"A former named  Subhash Deswal",
+            "place":" Indonesia",
+            "offer":"₹ 380.00 ",
+            "original":"₹ 499.00",
+            "category":"fruit"
+        },
+        {
+            "id":50,
+            "img":"https://post.healthline.com/wp-content/uploads/2019/10/pineapple-fruit-1296x728-header-1296x728.jpg",
+            "data":"PineApple",
+            "owner":"A farmer named Maappillaiyoorani",
+            "place":"Chinese",
+            "offer":"₹ 30.00 ",
+            "original":"₹ 49.00",
+            "category":"fruit"
+        },
+        {
+            "id":51,
+            "img":"https://blog-images-1.pharmeasy.in/blog/production/wp-content/uploads/2022/10/06132907/1-6-741x452.jpg",
+            "data":"Durian Fruit",
+            "owner":"A farmer named Muthu Kumar ",
+            "place":"Nilgiri district, Tamil Nadu",
+            "offer":"₹ 250.00 ",
+            "original":"₹ 300.23",
+            "category":"fruit"
+            
+        },
+        {
+            "id":52,
+            "img":"https://media.istockphoto.com/id/612524020/photo/fresh-ripe-black-cherries-background-top-view-close-up.jpg?s=612x612&w=0&k=20&c=Y02Ocw1ThYZOkg8sAq4NvPSw2sUY2gP3KxYowYbu6fs=",
+            "data":"Cherry",
+            "owner":"A farmer named Tukaram Bhagoji Gayakar ",
+            "place":"Tukaram",
+            "offer":"₹ 50.00 ",
+            "original":"₹ 60.00",
+            "category":"fruit"
+            
+        },
+        {
+            "id":53,
+            "img":"https://trymemall.com/img/3814331522217942.png",
+            "data":"Apple",
+            "owner":"A farmer named Rajendra Tukaram Chavan",
+            "place":"Nashik, Maharashtra",
+            "offer":"₹ 44.00 ",
+            "original":"₹ 50.00",
+            "category":"fruit"
+        },
+        {
+            "id":54,
+            "img":"https://tb-static.uber.com/prod/image-proc/processed_images/4887241ac8f9989c7101c723cbc139b9/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+            "data":"Water Melon",
+            "owner":"A former named  Subhash Deswal",
+            "place":"Haryana",
+            "offer":"₹ 50.00 ",
+            "original":"₹ 75.00",
+            "category":"fruit"
+        }
+    ],
+    "spices":[
+        {
+            "id":55,
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiCbgJaV_h7bdj4-IywPBUOWXHaezivEBxuQR4gyE7OHkBACXekg0M5breJ0l5hS-gTlY&usqp=CAU",
+            "data":"Cumin",
+            "owner":"Ngapur Santra",
+            "place":"Nagpur",
+            "offer":"₹ 55.00 ",
+            "original":"₹ 80.23",
+            "category":"spices"
+            
+        },
+        {
+            "id":56,
+            "img":"https://www.shutterstock.com/image-photo/spoon-dried-coriander-seeds-on-600nw-2476902997.jpg",
+            "data":"Corinader",
+            "owner":"Manikandan ",
+            "place":"Salem",
+            "offer":"₹ 80.00 ",
+            "original":"₹ 120.00",
+            "category":"spices"
+            
+        },
+        {
+            "id":57,
+            "img":"https://img.freepik.com/premium-photo/fenugreek-seeds-with-green-leaves-wooden-surface_525574-9119.jpg",
+            "data":"Fenugreek",
+            "owner":"A farmer named Rajendra Tukaram Chavan",
+            "place":"Nashik, Maharashtra",
+            "offer":"₹ 44.00 ",
+            "original":"₹ 50.00",
+            "category":"spices"
+        },
+        {
+            "id":58,
+            "img":"https://media.istockphoto.com/id/477782987/photo/black-mustard-seeds-isolated-on-white.jpg?s=612x612&w=0&k=20&c=DDlJat0pt-veanlRb0z2V0TxqWAe0Be_8byDPqiVJdg=",
+            "data":"Black musturd",
+            "owner":"A former named  Subhash Deswal",
+            "place":"Haryana",
+            "offer":"₹ 50.00 ",
+            "original":"₹ 75.00",
+            "category":"spices"
+        },
+        {
+            "id":59,
+            "img":"https://static.vecteezy.com/system/resources/previews/013/970/338/non_2x/celery-seeds-on-a-spoon-photo.jpg",
+            "data":"Celery Seed",
+            "owner":"A former named Ravi Prakash Maurya",
+            "place":"Maurya village",
+            "offer":"₹ 24.00 ",
+            "original":"₹ 38.00",
+            "category":"spices"
+        },
+        {
+            "id":60,
+            "img":"https://us.123rf.com/450wm/liudmilachernetska/liudmilachernetska2305/liudmilachernetska230524199/203756670-bowl-with-aromatic-cinnamon-sticks-on-wooden-table.jpg?ver=6",
+            "data":"Cinnamon",
+            "owner":"A former named Rahul Deshmukh",
+            "place":"Madhya Pradesh",
+            "offer":"₹ 240.00 ",
+            "original":"₹ 300.00",
+            "category":"spices"
+        },
+        {
+            "id":61,
+            "img":"https://www.shutterstock.com/image-photo/cassia-tora-beans-wooden-scoop-600nw-2062118225.jpg",
+            "data":"Cassia Seed",
+            "owner":"A former named  Subhash Deswal",
+            "place":" Indonesia",
+            "offer":"₹ 380.00 ",
+            "original":"₹ 499.00",
+            "category":"spices"
+        },
+        {
+            "id":62,
+            "img":"https://thumbs.dreamstime.com/b/blace-ginger-seeds-25190527.jpg",
+            "data":"Ginger Seed",
+            "owner":"A farmer named Maappillaiyoorani",
+            "place":"Chinese",
+            "offer":"₹ 30.00 ",
+            "original":"₹ 49.00",
+            "category":"spices"
+        },
+        {
+            "id":63,
+            "img":"https://media.istockphoto.com/id/894405444/photo/fresh-grated-horseradish.jpg?s=612x612&w=0&k=20&c=BtpA_XrDKv-dERoOAKnaA4r_ZoJphTo0yLLUXkmwlWw=",
+            "data":"Horseradish",
+            "owner":"A farmer named Muthu Kumar ",
+            "place":"Nilgiri district, Tamil Nadu",
+            "offer":"₹ 250.00 ",
+            "original":"₹ 300.23",
+            "category":"spices"
+            
+        },
+        {
+            "id":64,
+            "img":"https://media.istockphoto.com/id/1421653101/photo/bay-leaf-spice-on-a-rustic-handmade-ceramic-plate.webp?b=1&s=170667a&w=0&k=20&c=JV9tt9Jx5fzyJkVUTpi2fImErgZEl1imcfQwtUAZB2I=",
+            "data":"Bayleaves",
+            "owner":"A farmer named Tukaram Bhagoji Gayakar ",
+            "place":"Tukaram",
+            "offer":"₹ 50.00 ",
+            "original":"₹ 60.00",
+            "category":"spices"
+        
+    },
+        {
+            "id":65,
+            "img":"https://media.istockphoto.com/id/956693940/photo/fresh-curry-leaves-in-coconut-bowl-on-wooden-background.jpg?s=612x612&w=0&k=20&c=1rq52p6ITVV79oyL9En3wwHrG4jI5wMuW8TgSwPmA7w=",
+            "data":"Curry leaves",
+            "owner":"A farmer named Rajendra Tukaram Chavan",
+            "place":"Nashik, Maharashtra",
+            "offer":"₹ 44.00 ",
+            "original":"₹ 50.00",
+            "category":"spices"
+        },
+        {
+            "id":66,
+            "img":"https://spiceitupp.com/wp-content/uploads/elementor/thumbs/green-cardamom-with-seeds-elaichi-image-indian-spice-piuljmtyhmc2c7jq1nbbygvcpu2bdii9j3al9y4i6g.jpg",
+            "data":"Cardamom",
+            "owner":"A former named  Subhash Deswal",
+            "place":"Haryana",
+            "offer":"₹ 50.00 ",
+            "original":"₹ 75.00",
+            "category":"spices"
+        }
+    ],
+    "nuts":[
+        {
+            "id":67,
+            "img":"https://img.freepik.com/premium-photo/almonds-high-quality-4k-hdr_889056-21366.jpg",
+            "data":"Almonds",
+            "owner":"Ngapur Santra",
+            "place":"Nagpur",
+            "offer":"₹ 55.00 ",
+            "original":"₹ 80.23",
+            "category":"nuts"
+            
+        },
+        {
+            "id":68,
+            "img":"https://wallpaperaccess.com/full/2546633.png",
+            "data":"Cashews",
+            "owner":"Manikandan ",
+            "place":"Salem",
+            "offer":"₹ 80.00 ",
+            "original":"₹ 120.00",
+            "category":"nuts"
+            
+        },
+        {
+            "id":69,
+            "img":"https://wallpaperaccess.com/full/4002058.jpg",
+            "data":"Walnuts",
+            "owner":"A farmer named Rajendra Tukaram Chavan",
+            "place":"Nashik, Maharashtra",
+            "offer":"₹ 44.00 ",
+            "original":"₹ 50.00",
+            "category":"nuts"
+        },
+        {
+            "id":70,
+            "img":"https://c1.wallpaperflare.com/preview/957/955/751/pecan-toasted-nuts-candied-nuts-candied-pecans.jpg",
+            "data":"Pecans",
+            "owner":"A former named  Subhash Deswal",
+            "place":"Haryana",
+            "offer":"₹ 50.00 ",
+            "original":"₹ 75.00",
+            "category":"nuts"
+        },
+        {
+            "id":71,
+            "img":"https://cdn.wallpapersafari.com/45/43/ExsZ3R.jpg",
+            "data":"Pistachios",
+            "owner":"A former named Ravi Prakash Maurya",
+            "place":"Maurya village",
+            "offer":"₹ 24.00 ",
+            "original":"₹ 38.00",
+            "category":"nuts"
+        },
+        {
+            "id":72,
+            "img":"https://w0.peakpx.com/wallpaper/702/507/HD-wallpaper-food-hazelnut.jpg",
+            "data":"Hazelnuts (Filberts)",
+            "owner":"A former named Rahul Deshmukh",
+            "place":"Madhya Pradesh",
+            "offer":"₹ 240.00 ",
+            "original":"₹ 300.00",
+            "category":"nuts"
+        },
+        {
+            "id":73,
+            "img":"https://th.bing.com/th/id/OIP.Qx5HmLvO8ZWF6usVSNSOXgHaEK?rs=1&pid=ImgDetMain",
+            "data":"Brazil Nuts",
+            "owner":"A former named  Subhash Deswal",
+            "place":" Indonesia",
+            "offer":"₹ 380.00 ",
+            "original":"₹ 499.00",
+            "category":"nuts"
+        },
+        {
+            "id":74,
+            "img":"https://th.bing.com/th/id/OIP.u0U4_V6707cBOFaTtnSaigHaEH?rs=1&pid=ImgDetMain",
+            "data":"Argan Nuts",
+            "owner":"A farmer named Maappillaiyoorani",
+            "place":"Chinese",
+            "offer":"₹ 30.00 ",
+            "original":"₹ 49.00",
+            "category":"nuts"
+        },
+        {
+            "id":75,
+            "img":"https://th.bing.com/th/id/OIP.N5qsc8fLakGm6Xp9hR9fVwHaEo?rs=1&pid=ImgDetMain",
+            "data":"Acorn",
+            "owner":"A farmer named Muthu Kumar ",
+            "place":"Nilgiri district, Tamil Nadu",
+            "offer":"₹ 250.00 ",
+            "original":"₹ 300.23",
+            "category":"nuts"
+            
+        },
+        {
+            "id":76,
+            "img":"https://images.law.com/contrib/content/uploads/sites/416/2021/04/Peanuts-Article-202104141538.jpg",
+            "data":"Peanuts",
+            "owner":"A farmer named Tukaram Bhagoji Gayakar ",
+            "place":"Tukaram",
+            "offer":"₹ 50.00 ",
+            "original":"₹ 60.00",
+            "category":"nuts"
+            
+        },
+        {
+            "id":77,
+            "img":"https://img.freepik.com/premium-photo/dried-kola-nuts-dark-background-food-backdrop-generative-ai_849006-2634.jpg",
+            "data":"Kola Nut",
+            "owner":"A farmer named Rajendra Tukaram Chavan",
+            "place":"Nashik, Maharashtra",
+            "offer":"₹ 44.00 ",
+            "original":"₹ 50.00",
+            "category":"nuts"
+        },
+        {
+            "id":78,
+            "img":"https://th.bing.com/th/id/OIP.x3X399h61vNOXQ2MPrBzrQHaE8?rs=1&pid=ImgDetMain",
+            "data":"Macadamia",
+            "owner":"A former named  Subhash Deswal",
+            "place":"Haryana",
+            "offer":"₹ 50.00 ",
+            "original":"₹ 75.00",
+            "category":"nuts"
+        }
+    ],
+    "seed":[
+        {
+            "id":79,
+            "img":"https://wallpapercosmos.com/w/full/a/1/b/1308961-3840x2160-desktop-4k-pumpkin-seeds-wallpaper.jpg",
+            "data":"Pumpkin Seeds",
+            "owner":"Ngapur Santra",
+            "place":"Nagpur",
+            "offer":"₹ 55.00 ",
+            "original":"₹ 80.23",
+            "category":"seed"
+            
+        },
+        {
+            "id":80,
+            "img":"https://th.bing.com/th/id/OIP.edmWVdiGn_UAUC28xshXVgHaEK?rs=1&pid=ImgDetMain",
+            "data":"Sesame Seeds(Black)",
+            "owner":"Manikandan ",
+            "place":"Salem",
+            "offer":"₹ 80.00 ",
+            "original":"₹ 120.00",
+            "category":"seed"
+            
+        },
+        {
+            "id":81,
+            "img":"https://wallpapercosmos.com/w/full/d/5/f/1308660-1920x1080-desktop-1080p-sesame-seeds-background-image.jpg",
+            "data":"Sesame Seeds(White)",
+            "owner":"A farmer named Rajendra Tukaram Chavan",
+            "place":"Nashik, Maharashtra",
+            "offer":"₹ 44.00 ",
+            "original":"₹ 50.00",
+            "category":"seed"
+        },
+        {
+            "id":82,
+            "img":"https://cdn-prod.medicalnewstoday.com/content/images/hero/323/323037/323037_1100.jpg",
+            "data":"Hemp Seeds",
+            "owner":"A former named  Subhash Deswal",
+            "place":"Haryana",
+            "offer":"₹ 50.00 ",
+            "original":"₹ 75.00",
+            "category":"seed"
+        },
+        {
+            "id":83,
+            "img":"https://th.bing.com/th/id/OIP.ilH24KMb6s21TS782imUxAHaEK?rs=1&pid=ImgDetMain",
+            "data":"Chia Seeds",
+            "owner":"A former named Ravi Prakash Maurya",
+            "place":"Maurya village",
+            "offer":"₹ 24.00 ",
+            "original":"₹ 38.00",
+            "category":"seed"
+        },
+        {
+            "id":84,
+            "img":"https://th.bing.com/th/id/OIP.Qhckw5NAA09kMeRcXtddWQHaEv?rs=1&pid=ImgDetMain",
+            "data":"Egusi Seeds",
+            "owner":"A former named Rahul Deshmukh",
+            "place":"Madhya Pradesh",
+            "offer":"₹ 240.00 ",
+            "original":"₹ 300.00",
+            "category":"seed"
+            
+        },
+        {
+            "id":85,
+            "img":"https://wallpapercosmos.com/w/full/e/7/b/1308460-1920x1080-desktop-1080p-flax-seeds-wallpaper-image.jpg",
+            "data":"Flax Seeds",
+            "owner":"A former named  Subhash Deswal",
+            "place":" Indonesia",
+            "offer":"₹ 380.00 ",
+            "original":"₹ 499.00",
+            "category":"seed"
+        },
+        {
+            "id":86,
+            "img":"https://th.bing.com/th/id/OIP.ttHB1PTOsgzKlnFw2m8e2gHaEJ?rs=1&pid=ImgDetMain",
+            "data":"Sunflower Seeds",
+            "owner":"A farmer named Maappillaiyoorani",
+            "place":"Chinese",
+            "offer":"₹ 30.00 ",
+            "original":"₹ 49.00",
+            "category":"seed"
+        },
+        {
+            "id":87,
+            "img":"https://th.bing.com/th/id/OIP.MZyXvTNyZR-JLRZlDXh1JwHaE9?rs=1&pid=ImgDetMain",
+            "data":"Quinoa Seeds",
+            "owner":"A farmer named Muthu Kumar ",
+            "place":"Nilgiri district, Tamil Nadu",
+            "offer":"₹ 250.00 ",
+            "original":"₹ 300.23",
+            "category":"seed"
+            
+        },
+        {
+            "id":88,
+            "img":"https://img.lovepik.com/photo/20211208/medium/lovepik-buckwheat-seeds-picture_501604237.jpg",
+            "data":"Buckwheat Seeds",
+            "owner":"A farmer named Tukaram Bhagoji Gayakar ",
+            "place":"Tukaram",
+            "offer":"₹ 50.00 ",
+            "original":"₹ 60.00",
+            "category":"seed"
+            
+        },
+        {
+            "id":89,
+            "img":"https://media.istockphoto.com/id/1334594394/photo/makhana-is-lotus-seeds-or-fox-nuts-used-to-preparing-various-foods-in-india.jpg?s=612x612&w=0&k=20&c=x78p4v3i-Qop_sCA_gd2eKFv0IHdflPZr6vsBGoqnaE=",
+            "data":"Lotus seed",
+            "owner":"A farmer named Rajendra Tukaram Chavan",
+            "place":"Nashik, Maharashtra",
+            "offer":"₹ 44.00 ",
+            "original":"₹ 50.00",
+            "category":"seed"
+        },
+        {
+            "id":90,
+            "img":"https://goodness-farm.com/wp-content/uploads/2023/04/poppy-seed-500x500-1.jpg",
+            "data":"Poppy Seeds",
+            "owner":"A former named  Subhash Deswal",
+            "place":"Haryana",
+            "offer":"₹ 50.00 ",
+            "original":"₹ 75.00",
+            "category":"seed"
+        }
+    ],
+    "rice":[
+        {
+            "id":91,
+            "img":"https://d4pmlgzenkweq.cloudfront.net/pwy3jxd14zbzu3f8a6plhxyog70b",
+            "data":"Basmati rice",
+            "owner":"Ngapur Santra",
+            "place":"Nagpur",
+            "offer":"₹ 55.00 ",
+            "original":"₹ 80.23",
+            "category":"rice"
+            
+        },
+        {
+            "id":92,
+            "img":"https://images.pexels.com/photos/10294598/pexels-photo-10294598.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "data":"Jasmine rice",
+            "owner":"Manikandan ",
+            "place":"Salem",
+            "offer":"₹ 80.00 ",
+            "original":"₹ 120.00",
+            "category":"rice"
+            
+        },
+        {
+            "id":93,
+            "img":"https://media.istockphoto.com/id/486283864/photo/raw-black-wild-rice.jpg?s=612x612&w=0&k=20&c=Nx4OCEZn3tEH0yHDpi2w7TFPzHeIRcbKa3iS7L79zqw=",
+            "data":"Wild rice",
+            "owner":"A farmer named Rajendra Tukaram Chavan",
+            "place":"Nashik, Maharashtra",
+            "offer":"₹ 44.00 ",
+            "original":"₹ 50.00",
+            "category":"rice"
+        },
+        {
+            "id":94,
+            "img":"https://media.istockphoto.com/id/609934800/photo/brown-basmati-rice-selective-focus.jpg?s=612x612&w=0&k=20&c=bOknvlK3KXADT_OavFBxeiv6oGh8ZKBwxMDUMv3IZcA=",
+            "data":"Brown Basmati",
+            "owner":"A former named  Subhash Deswal",
+            "place":"Haryana",
+            "offer":"₹ 50.00 ",
+            "original":"₹ 75.00",
+            "category":"rice"
+        },
+        {
+            "id":95,
+            "img":"https://www.fortheloveofnature.in/cdn/shop/products/brown_rice_1.jpg?v=1626705298",
+            "data":"Brown Sona Masuri",
+            "owner":"A former named Ravi Prakash Maurya",
+            "place":"Maurya village",
+            "offer":"₹ 24.00 ",
+            "original":"₹ 38.00",
+            "category":"rice"
+        },
+        {
+            "id":96,
+            "img":"https://5.imimg.com/data5/JU/YH/MY-40895487/ponni-raw-rice.jpg",
+            "data":"ponni raw rice",
+            "owner":"A former named Rahul Deshmukh",
+            "place":"Madhya Pradesh",
+            "offer":"₹ 240.00 ",
+            "original":"₹ 300.00",
+            "category":"rice"
+        },
+        {
+            "id":97,
+            "img":"https://www.fortheloveofnature.in/cdn/shop/products/IdliRice_1445x.jpg?v=1626705322",
+            "data":"idli rice",
+            "owner":"A former named  Subhash Deswal",
+            "place":" Indonesia",
+            "offer":"₹ 380.00 ",
+            "original":"₹ 499.00",
+            "category":"rice"
+        },
+        {
+            "id":98,
+            "img":"https://5.imimg.com/data5/JL/AT/GLADMIN-69888866/1-500x500.png",
+            "data":"kolam rice",
+            "owner":"A farmer named Maappillaiyoorani",
+            "place":"Chinese",
+            "offer":"₹ 30.00 ",
+            "original":"₹ 49.00",
+            "category":"rice"
+        },
+        {
+            "id":99,
+            "img":"https://m.media-amazon.com/images/I/71WOBz82ePL.jpg",
+            "data":"Matta rice",
+            "owner":"A farmer named Muthu Kumar ",
+            "place":"Nilgiri district, Tamil Nadu",
+            "offer":"₹ 250.00 ",
+            "original":"₹ 300.23",
+            "category":"rice"
+            
+        },
+        {
+            "id":100,
+            "img":"https://lh6.googleusercontent.com/proxy/fzOpTeA3F4SbhWtYRhRY2GnnSASsYg94WSPXv5ZY_QVJ50oMtoCUJBmbOWvv6KXRvKnwPxnPqXu-TJSsdubQD6zo3_yBWrIS9lfWHXdHjU9N_c3mq_WJzCu89wzGo_0",
+            "data":"Gobindobhog Rice",
+            "owner":"A farmer named Tukaram Bhagoji Gayakar ",
+            "place":"Tukaram",
+            "offer":"₹ 50.00 ",
+            "original":"₹ 60.00",
+            "category":"rice"
+            
+        },
+        {
+            "id":101,
+            "img":"https://mangaalharvest.com/cdn/shop/products/ambemohar-rice-1516008240-3570733_7c885069-984c-43af-a98b-2aceffcda731.jpg?v=1631531869",
+            "data":"Ambemohar Rice",
+            "owner":"A farmer named Rajendra Tukaram Chavan",
+            "place":"Nashik, Maharashtra",
+            "offer":"₹ 44.00 ",
+            "original":"₹ 50.00",
+            "category":"rice"
+        },
+        {
+            "id":102,
+            "img":"https://dharaninaturals.in/wp-content/uploads/2021/10/top-view-raw-rice-inside-plate-dark-desk-2.jpg",
+            "data":"ndrayani Rice",
+            "owner":"A former named  Subhash Deswal",
+            "place":"Haryana",
+            "offer":"₹ 50.00 ",
+            "original":"₹ 75.00",
+            "category":"rice"
+        }
+    ],
+    "farmmachine":[
+        {
+            "id":103,
+            "img":"https://down-my.img.susercontent.com/file/9b6747483f8e187cd55f32f539c28c6f",
+            "data":"sprayer",
+            "owner":"Ngapur Santra",
+            "place":"Nagpur",
+            "offer":"₹ 55.00 ",
+            "original":"₹ 80.23",
+            "category":"farmmachine"
+            
+        },
+        {
+            "id":104,
+            "img":"https://cdn.shopify.com/s/files/1/0722/2059/products/BC-520W.jpg?v=1607177300&width=384",
+            "data":"brush cutter",
+            "owner":"Manikandan ",
+            "place":"Salem",
+            "offer":"₹ 15999 ",
+            "original":"₹ 16999.00",            
+            "category":"farmmachine"
+        },
+        {
+            "id":105,
+            "img":"https://cdn.shopify.com/s/files/1/0722/2059/products/NC-41E.jpg?v=1607178111&width=384",
+            "data":"weeder",
+            "owner":"A farmer named Rajendra Tukaram Chavan",
+            "place":"Nashik, Maharashtra",
+            "offer":"₹ 16499.00 ",
+            "original":"₹ 16999.00",
+            "category":"farmmachine"
+        },
+        {
+            "id":106,
+            "img":"https://cdn.shopify.com/s/files/1/0722/2059/products/TCM.png?v=1632828098&width=384",
+            "data":"chaff cutter",
+            "owner":"A former named  Subhash Deswal",
+            "place":"Haryana",
+            "offer":"₹ 58699.00 ",
+            "original":"₹ 60699.00",
+            "category":"farmmachine"
+        },
+        {
+            "id":107,
+            "img":"https://cdn.shopify.com/s/files/1/0722/2059/files/1_AnubhavSingh1.png?v=1693375958&width=384",
+            "data":"solar dryer",
+            "owner":"A former named Ravi Prakash Maurya",
+            "place":"Maurya village",
+            "offer":"₹ 38999.00 ",
+            "original":"₹ 39999.00",
+            "category":"farmmachine"
+        },
+        {
+            "id":108,
+            "img":"https://cdn.shopify.com/s/files/1/0722/2059/products/Cw845WMi4N.jpg?v=1619700356&width=384",
+            "data":"earth auger",
+            "owner":"A former named Rahul Deshmukh",
+            "place":"Madhya Pradesh",
+            "offer":"₹ 17700.00 ",
+            "original":"₹ 19700.00",
+            "category":"farmmachine"
+        },
+        {
+            "id":109,
+            "img":"https://cdn.shopify.com/s/files/1/0722/2059/products/CROP-COVER.jpg?v=1601731084&width=384",
+            "data":"Crop cover",
+            "owner":"A former named  Subhash Deswal",
+            "place":" Indonesia",
+            "offer":"₹ 2800.00 ",
+            "original":"₹ 2900.00",
+            "category":"farmmachine"
+        },
+        {
+            "id":110,
+            "img":"https://cdn.shopify.com/s/files/1/0722/2059/files/2_c790079b-eb37-4472-a414-559ea55e5b29.webp?v=1689158192&width=384",
+            "data":"Sickle",
+            "owner":"A farmer named Maappillaiyoorani",
+            "place":"Chinese",
+            "offer":"₹ 400.00 ",
+            "original":"₹ 490.00",
+            "category":"farmmachine"
+        },
+        {
+            "id":111,
+            "img":"https://cdn.shopify.com/s/files/1/0722/2059/files/16_bc8bf017-0c92-4581-9d43-be9badf2a85c.webp?v=1690782078&width=384",
+            "data":"Axe",
+            "owner":"A farmer named Muthu Kumar ",
+            "place":"Nilgiri district, Tamil Nadu",
+            "offer":"₹ 850.00 ",
+            "original":"₹ 999.00",
+            "category":"farmmachine"
+            
+        },
+        {
+            "id":112,
+            "img":"https://cdn.shopify.com/s/files/1/0722/2059/products/Artboard38_04733b55-570b-4c5d-9b5f-e4a8b1c89a37.webp?v=1679981536&width=384",
+            "data":"Hedge shear",
+            "owner":"A farmer named Tukaram Bhagoji Gayakar ",
+            "place":"Tukaram",
+            "offer":"₹ 650.00 ",
+            "original":"₹ 799.00",
+            "category":"farmmachine"
+            
+        },
+        {
+            "id":113,
+            "img":"https://cdn.shopify.com/s/files/1/0722/2059/files/1_AnubhavSingh7.png?v=1695194151&width=384",
+            "data":"Cow dung fawada",
+            "owner":"A farmer named Rajendra Tukaram Chavan",
+            "place":"Nashik, Maharashtra",
+            "offer":"₹ 300.00 ",
+            "original":"₹ 350.00",
+            "category":"farmmachine"
+        },
+        {
+            "id":114,
+            "img":"https://cdn.shopify.com/s/files/1/0722/2059/files/8_AnubhavSingh8.png?v=1713778642&width=384",
+            "data":"waterpump",
+            "owner":"A former named  Subhash Deswal",
+            "place":"Haryana",
+            "offer":"₹ 12600.00 ",
+            "original":"₹ 12900.00",
+            "category":"farmmachine"
+        }
+    ],
+    "cropproduction":[
+        {
+            "id":115,
+            "img":"https://cdn.shopify.com/s/files/1/0722/2059/files/18_5b640997-e184-468e-9163-9dd70caa007f.webp?v=1706784645&width=384",
+            "data":"Micro nutrients fertilizer",
+            "owner":"Ngapur Santra",
+            "place":"Nagpur",
+            "offer":"₹ 390.00 ",
+            "original":"₹ 480.00",
+            "category":"cropproduction"
+            
+        },
+        {
+            "id":116,
+            "img":"https://cdn.shopify.com/s/files/1/0722/2059/files/379f818d457d364af9989d5e2feef1b8.png?v=1686568916&width=384",
+            "data":"Iron micronutrient fertilizer",
+            "owner":"Manikandan ",
+            "place":"Salem",
+            "offer":"₹ 180.00 ",
+            "original":"₹ 299.00",
+        "category":"cropproduction"
+        
+    },
+        {
+            "id":117,
+            "img":"https://cdn.shopify.com/s/files/1/0722/2059/files/1_3__LahariPeddiReddy.png?v=1716546430&width=384",
+            "data":"Activated humic acid",
+            "owner":"A farmer named Rajendra Tukaram Chavan",
+            "place":"Nashik, Maharashtra",
+            "offer":"₹ 449.00 ",
+            "original":"₹ 499.00",
+            "category":"cropproduction"
+        },
+        {
+            "id":118,
+            "img":"https://cdn.shopify.com/s/files/1/0722/2059/files/51qEL5iLZLL.jpg?v=1701150435&width=384",
+            "data":"Fantac plus growth promoter",
+            "owner":"A former named  Subhash Deswal",
+            "place":"Haryana",
+            "offer":"₹ 277.00 ",
+            "original":"₹ 399.00",
+            "category":"cropproduction"
+        },
+        {
+            "id":119,
+            "img":"https://cdn.shopify.com/s/files/1/0722/2059/files/2_7ce4741d-1c4e-4de7-8dee-5669cdd3e5bb.webp?v=1683894692&width=384",
+            "data":"Nanobee agrokill ",
+            "owner":"A former named Ravi Prakash Maurya",
+            "place":"Maurya village",
+            "offer":"₹ 820.00 ",
+            "original":"₹ 899.00",
+            "category":"cropproduction"
+        },
+        {
+            "id":120,
+            "img":"https://cdn.shopify.com/s/files/1/0722/2059/files/205b09c8-c4a9-476f-a389-bcedfdabd853.png?v=1707307665&width=384",
+            "data":"Growth booster",
+            "owner":"A former named Rahul Deshmukh",
+            "place":"Madhya Pradesh",
+            "offer":"₹ 450.00 ",
+            "original":"₹ 4990.00",
+            "category":"cropproduction"
+        },
+        {
+            "id":121,
+            "img":"https://cdn.shopify.com/s/files/1/0722/2059/products/beesafe_enhance.jpg?v=1631347264&width=384",
+            "data":"Enhancer ",
+            "owner":"A former named  Subhash Deswal",
+            "place":" Indonesia",
+            "offer":"₹ 700.00 ",
+            "original":"₹ 900.00",
+            "category":"cropproduction"
+        },
+        {
+            "id":122,
+            "img":"https://cdn.shopify.com/s/files/1/0722/2059/files/NewProduct_15_aa0a2c91-c990-4e57-bd84-5b787d860a18.webp?v=1714715226&width=384",
+            "data":"Flower booster fertilizer",
+            "owner":"A farmer named Maappillaiyoorani",
+            "place":"Chinese",
+            "offer":"₹ 190.00 ",
+            "original":"₹ 260.00",
+            "category":"cropproduction"
+        },
+        {
+            "id":123,
+            "img":"https://cdn.shopify.com/s/files/1/0722/2059/files/4_LahariPeddiReddy.png?v=1716546365&width=384",
+            "data":"Npk water soluble fertilizer",
+            "owner":"A farmer named Muthu Kumar ",
+            "place":"Nilgiri district, Tamil Nadu",
+            "offer":"₹ 525.00 ",
+            "original":"₹ 599.00",
+            "category":"cropproduction"
+            
+        },
+        {
+            "id":124,
+            "img":"https://cdn.shopify.com/s/files/1/0722/2059/products/BeeSafe-AAHAAR.jpg?v=1649484871&width=384",
+            "data":"Vedagna bio fertilizer",
+            "owner":"A farmer named Tukaram Bhagoji Gayakar ",
+            "place":"Tukaram",
+            "offer":"₹ 650.00 ",
+            "original":"₹ 799.00",
+            "category":"cropproduction"
+            
+        },
+        {
+            "id":125,
+            "img":"https://cdn.shopify.com/s/files/1/0722/2059/files/7_acc0c3e3-cdc8-4a84-bd36-e46750a9148b.webp?v=1689403931&width=384",
+            "data":"Biovita seaweed",
+            "owner":"A farmer named Rajendra Tukaram Chavan",
+            "place":"Nashik, Maharashtra",
+            "offer":"₹ 250.00 ",
+            "original":"₹ 320.00",
+            "category":"cropproduction"
+        },
+        {
+            "id":126,
+            "img":"https://cdn.shopify.com/s/files/1/0722/2059/files/BlackCarbonFertilizer_1__LahariPeddiReddy.webp?v=1699509350&width=384",
+            "data":"Actosol fertiliser coat",
+            "owner":"A former named  Subhash Deswal",
+            "place":"Haryana",
+            "offer":"₹ 360.00 ",
+            "original":"₹ 390.00",
+            "category":"cropproduction"
+        }
+    ]
+}
